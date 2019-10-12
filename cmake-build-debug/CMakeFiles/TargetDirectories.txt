@@ -1,0 +1,3 @@
+/media/artemy/Artemy/LabsOAIP/Laba8Joke/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/media/artemy/Artemy/LabsOAIP/Laba8Joke/cmake-build-debug/CMakeFiles/Laba8Joke.dir
+/media/artemy/Artemy/LabsOAIP/Laba8Joke/cmake-build-debug/CMakeFiles/edit_cache.dir
